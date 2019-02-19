@@ -3,7 +3,8 @@ public class User{
    private String addresss;
    private Integer age;
    public User(User user){}
-  
+   public user£¨£©{
 }
+ }
 
 
