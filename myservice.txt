@@ -1,0 +1,6 @@
+public class UserService{
+   private UserDao userDao;
+   public void update(User user){
+              userDao.update(user);
+  }
+}
