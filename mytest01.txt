@@ -2,6 +2,8 @@ public class User{
    private String name;
    private String addresss;
    private Integer age;
-   public User(){}
+   public User(User user){}
   
 }
+
+
