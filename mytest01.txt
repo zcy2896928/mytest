@@ -3,4 +3,5 @@ public class User{
    private String addresss;
    private Integer age;
    public User(){}
+  
 }
